@@ -1,12 +1,15 @@
 # 👋 ¡Hola! Soy Jerónimo Gil
 
+(https://www.losreplicantes.com/images/photoday/1000/1163/c.jpg)
+
 🎓 Soy un profesional del desarrollo de software con experiencia en múltiples lenguajes y frameworks. Me destaco por ser una persona con:
 
 - 🤝 Excelente capacidad para trabajar en equipo  
 - ⚡ Aprendizaje rápido y adaptabilidad a nuevas tecnologías  
+- 🧠 Conocimientos sólidos en **bases de datos relacionales y no relacionales**  
 - 🎧 Conocimientos en **producción musical**, combinando creatividad y lógica en mis proyectos  
 - ✍️ Experiencia escribiendo **letras, líricas y contenido musical**  
-- 🧠 Participación activa en un **proyecto de psicología apoyado por inteligencia artificial**
+- 🤖 Participación activa en un **proyecto de psicología apoyado por inteligencia artificial**
 
 ---
 
@@ -14,6 +17,7 @@
 
 - 🚀 Aprender nuevos **lenguajes de programación** y profundizar mis conocimientos actuales  
 - 🧠 Seguir desarrollando habilidades en **desarrollo web, backend y frontend**  
+- 🗄️ Fortalecer mi experiencia en **modelado y optimización de bases de datos**  
 - 🎹 Explorar nuevas áreas en la **producción musical digital** y mejorar mis técnicas creativas  
 - 📝 Mejorar continuamente mis capacidades para **escribir letras** con contenido emocional y artístico
 
@@ -28,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
 </div>
 
 ---
@@ -59,5 +65,5 @@ Actualmente formo parte de un **proyecto de psicología** que utiliza inteligenc
 
 ---
 
-_Ya no veas mi perfil, chao _
+_Ya no veas mi perfil, chao_
 
