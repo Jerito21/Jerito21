@@ -34,7 +34,7 @@
 También tengo conocimientos en el área de **producción musical**, donde aplico mi creatividad en entornos digitales.
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FL_Studio_Logo.png/600px-FL_Studio_Logo.png" height="40" alt="FL Studio" />
+  <img src="https://media.tenor.com/9m6sXdq-wFkAAAAe/fl-studio-21-logo.png" height="40" alt="FL Studio" />
 </div>
 
 🎵 Mi canción favorita: **"Goteo" - Duki**
