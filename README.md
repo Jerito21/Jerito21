@@ -4,7 +4,9 @@
 
 - 🤝 Excelente capacidad para trabajar en equipo  
 - ⚡ Aprendizaje rápido y adaptabilidad a nuevas tecnologías  
-- 🎧 Conocimientos en **producción musical**, combinando creatividad y lógica en mis proyectos
+- 🎧 Conocimientos en **producción musical**, combinando creatividad y lógica en mis proyectos  
+- ✍️ Experiencia escribiendo **letras, líricas y contenido musical**  
+- 🧠 Participación activa en un **proyecto de psicología apoyado por inteligencia artificial**
 
 ---
 
@@ -12,7 +14,8 @@
 
 - 🚀 Aprender nuevos **lenguajes de programación** y profundizar mis conocimientos actuales  
 - 🧠 Seguir desarrollando habilidades en **desarrollo web, backend y frontend**  
-- 🎹 Explorar nuevas áreas en la **producción musical digital** y mejorar mis técnicas creativas
+- 🎹 Explorar nuevas áreas en la **producción musical digital** y mejorar mis técnicas creativas  
+- 📝 Mejorar continuamente mis capacidades para **escribir letras** con contenido emocional y artístico
 
 ---
 
@@ -37,7 +40,14 @@ También tengo conocimientos en el área de **producción musical**, donde aplic
   <img src="https://media.tenor.com/9m6sXdq-wFkAAAAe/fl-studio-21-logo.png" height="40" alt="FL Studio" />
 </div>
 
-🎵 Mi canción favorita: **"Goteo" - Duki**
+🎵 Mi canción favorita: **"Goteo" - Duki**  
+🎤 Me encanta escribir letras, explorar sonidos y expresar ideas a través de la música.
+
+---
+
+## 🤖 Proyecto con Inteligencia Artificial
+
+Actualmente formo parte de un **proyecto de psicología** que utiliza inteligencia artificial para ayudar a las personas a mejorar su bienestar emocional y mental. Esta experiencia ha fortalecido mi visión sobre el impacto positivo de la tecnología.
 
 ---
 
