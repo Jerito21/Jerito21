@@ -49,5 +49,5 @@ También tengo conocimientos en el área de **producción musical**, donde aplic
 
 ---
 
-_Gracias por visitar mi perfil ✨_
+_Ya no veas mi perfil, chao _
 
