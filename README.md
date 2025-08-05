@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Jerónimo Gil
 
-![Foto personal](https://www.losreplicantes.com/images/photoday/1000/1163/c.jpg)
-
 🎓 Soy un profesional del desarrollo de software con experiencia en múltiples lenguajes y frameworks. Me destaco por ser una persona con:
 
 - 🤝 Excelente capacidad para trabajar en equipo  
@@ -64,5 +62,7 @@ Actualmente formo parte de un **proyecto de psicología** que utiliza inteligenc
 - 🖥️ **GitHub:** Puedes escribirme directamente desde aquí
 
 ---
+
+![Foto personal](https://www.losreplicantes.com/images/photoday/1000/1163/c.jpg)
 
 _Ya no veas mi perfil, chao_
