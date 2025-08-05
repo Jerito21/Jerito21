@@ -2,11 +2,17 @@
 
 🎓 Soy un profesional del desarrollo de software con experiencia en múltiples lenguajes y frameworks. Me destaco por ser una persona con:
 
-- 🤝 Excelente capacidad para trabajar en equipo
-- ⚡ Aprendizaje rápido y adaptabilidad a nuevas tecnologías
+- 🤝 Excelente capacidad para trabajar en equipo  
+- ⚡ Aprendizaje rápido y adaptabilidad a nuevas tecnologías  
 - 🎧 Conocimientos en **producción musical**, combinando creatividad y lógica en mis proyectos
 
-🎯 Me enfoco en formar profesionales capaces de **analizar, diseñar, desarrollar, implementar y mantener software**, tanto individualmente como en equipos colaborativos.
+---
+
+## 🎯 Objetivos
+
+- 🚀 Aprender nuevos **lenguajes de programación** y profundizar mis conocimientos actuales  
+- 🧠 Seguir desarrollando habilidades en **desarrollo web, backend y frontend**  
+- 🎹 Explorar nuevas áreas en la **producción musical digital** y mejorar mis técnicas creativas
 
 ---
 
@@ -25,18 +31,23 @@
 
 ## 🎶 Producción musical
 
-También tengo conocimientos en el área de producción musical, donde aplico mi creatividad en entornos digitales.
+También tengo conocimientos en el área de **producción musical**, donde aplico mi creatividad en entornos digitales.
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FL_Studio_Logo.png/600px-FL_Studio_Logo.png" height="40" alt="FL Studio" />
 </div>
 
+🎵 Mi canción favorita: **"Goteo" - Duki**
+
 ---
 
 ## 📫 ¿Quieres contactarme?
 
-Puedes escribirme directamente por [LinkedIn](https://www.linkedin.com) o a través de GitHub. Estoy abierto a colaborar en proyectos de desarrollo o producción musical.
+- 📧 **Correo:** jgil5270@gmail.com  
+- 💼 **LinkedIn:** [Visítame aquí](https://www.linkedin.com)  
+- 🖥️ **GitHub:** Puedes escribirme directamente desde aquí
 
 ---
 
 _Gracias por visitar mi perfil ✨_
+
